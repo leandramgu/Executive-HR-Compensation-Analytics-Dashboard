@@ -25,6 +25,7 @@ Diseñada para la gerencia de operaciones y recursos humanos con el fin de medir
   * **Total de Empleados por Evaluación:** Distribución de calificaciones de desempeño (Bueno, Excelente, Regular, Malo).
   * **Empleados con Alto Desempeño Rotados:** Análisis longitudinal de tendencias (2020–2024).
   * **Composición por Categoría:** Gráfico de anillos (*Donut Chart*) con los pesos porcentuales de la plantilla (58.53% Fijos, 40.3% Contratados).
+ 
 ![Página 1](./Archivos/Dash1.png)
 
 ---
@@ -41,4 +42,19 @@ Enfocada en el análisis financiero y control presupuestario de la masa salarial
   * **Costo de Hora Extra por Departamento:** Gasto acumulado en horas extraordinarias de contratados (Operaciones y Ventas con mayor volumen de inversión).
   * **Costo Promedio por Tipo de Empleado:** Desglose porcentual del impacto financiero (94.21% asignado a efectivos).
 
+![Página 2](./Archivos/Dash2.png)
+
+
+##  Demostración Interactiva del Tablero
+
+> *Visualiza la fluidez de los filtros cruzados, la navegación entre páginas y el buscador dinámico de empleados:*
+
+![Demostración del Dashboard](./Archivos/RRHH.gif)
+
+---
+
+## 👤 Autor
+
+**Leandra Uraldes**  
+*Ingeniera en Sistemas y Data Analyst*
 ---
