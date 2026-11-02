@@ -25,7 +25,7 @@ Diseñada para la gerencia de operaciones y recursos humanos con el fin de medir
   * **Total de Empleados por Evaluación:** Distribución de calificaciones de desempeño (Bueno, Excelente, Regular, Malo).
   * **Empleados con Alto Desempeño Rotados:** Análisis longitudinal de tendencias (2020–2024).
   * **Composición por Categoría:** Gráfico de anillos (*Donut Chart*) con los pesos porcentuales de la plantilla (58.53% Fijos, 40.3% Contratados).
-![Página 1](./images/Dash1.png)
+![Página 1](./Archivos/Dash1.png)
 
 ---
 
